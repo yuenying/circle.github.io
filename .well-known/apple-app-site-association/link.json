@@ -3,7 +3,7 @@
     "apps": [],
     "details": [
       {
-        "appIDs": ["R6742XH2VZ.com.metair.pfhcreditcard.dev"],
+        "appIDs": ["7LYV7BNZW6.com.pfhcard.production"],
         "paths": ["*"],
         "components": [
           {
@@ -14,6 +14,6 @@
     ]
   },
   "webcredentials": {
-    "apps": ["R6742XH2VZ.com.metair.pfhcreditcard.dev"]
+    "apps": ["7LYV7BNZW6.com.pfhcard.production"]
   }
 }

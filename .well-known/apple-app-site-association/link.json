@@ -1,0 +1,19 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": ["R6742XH2VZ.com.metair.pfhcreditcard.dev"],
+        "paths": ["*"],
+        "components": [
+          {
+            "/": "/*"
+          }
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": ["R6742XH2VZ.com.metair.pfhcreditcard.dev"]
+  }
+}
